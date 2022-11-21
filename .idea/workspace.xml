@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73b98cda-c16d-41a5-9f21-7e11cf67b954" name="Changes" comment="Change website with free temple">
+      <change afterPath="$PROJECT_DIR$/.idea/StamUmod.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/close-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logos/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logos/google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logos/ibm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logos/microsoft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/map-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/navbar-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WA YA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/d3420288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/d3420289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/my Css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeTable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hq3ZNoKgXCUbML6NisQ9sRh79K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WA YA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b98cda-c16d-41a5-9f21-7e11cf67b954" name="Changes" comment="" />
+      <created>1668998841068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668998841068</updated>
+      <workItem from="1668998842188" duration="3354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change website with free temple" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change website with free temple" />
+  </component>
+</project>
