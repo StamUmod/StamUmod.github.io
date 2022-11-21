@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73b98cda-c16d-41a5-9f21-7e11cf67b954" name="Changes" comment="Change website with free temple">
-      <change afterPath="$PROJECT_DIR$/.idea/StamUmod.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/close-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/header-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/google.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/ibm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/microsoft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/map-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/navbar-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WA YA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/d3420288.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/d3420289.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/my Css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeTable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+    <list default="true" id="73b98cda-c16d-41a5-9f21-7e11cf67b954" name="Changes" comment="修改畫面">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,8 +45,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668998841068</updated>
-      <workItem from="1668998842188" duration="3354000" />
+      <workItem from="1668998842188" duration="3654000" />
     </task>
+    <task id="LOCAL-00001" summary="修改畫面">
+      <created>1669002318404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669002318404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change website with free temple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change website with free temple" />
+    <MESSAGE value="修改畫面" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改畫面" />
   </component>
 </project>
