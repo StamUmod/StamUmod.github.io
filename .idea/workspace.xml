@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73b98cda-c16d-41a5-9f21-7e11cf67b954" name="Changes" comment="修改畫面" />
+    <list default="true" id="73b98cda-c16d-41a5-9f21-7e11cf67b954" name="Changes" comment="修改畫面">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +56,9 @@
       <workItem from="1668998842188" duration="3724000" />
       <workItem from="1669606174914" duration="2174000" />
       <workItem from="1669696950934" duration="1115000" />
+      <workItem from="1669707834711" duration="62000" />
+      <workItem from="1669707905138" duration="28000" />
+      <workItem from="1669707940560" duration="2355000" />
     </task>
     <task id="LOCAL-00001" summary="修改畫面">
       <created>1669002318404</created>
@@ -85,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669707819964</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改畫面">
+      <created>1669707893457</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669707893457</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
