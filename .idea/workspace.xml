@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73b98cda-c16d-41a5-9f21-7e11cf67b954" name="Changes" comment="修改畫面 01">
+    <list default="true" id="73b98cda-c16d-41a5-9f21-7e11cf67b954" name="Changes" comment="修改內部">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -55,7 +55,7 @@
       <workItem from="1669707834711" duration="62000" />
       <workItem from="1669707905138" duration="28000" />
       <workItem from="1669707940560" duration="10310000" />
-      <workItem from="1669777500541" duration="2590000" />
+      <workItem from="1669777500541" duration="5059000" />
     </task>
     <task id="LOCAL-00001" summary="修改畫面">
       <created>1669002318404</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669777958654</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="修改內部">
+      <created>1669780219686</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669780219686</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +169,7 @@
     <MESSAGE value="Change website with free temple" />
     <MESSAGE value="修改畫面" />
     <MESSAGE value="修改畫面 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改畫面 01" />
+    <MESSAGE value="修改內部" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改內部" />
   </component>
 </project>
